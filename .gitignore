@@ -12,3 +12,7 @@ wheels/
 
 .ipynb_checkpoints
 notebooks/manim/
+
+audio/
+output/
+final/
