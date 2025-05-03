@@ -1,0 +1,28 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "script": "[S1] Alright, see that slick yellow \"t equals tan of x over two\" in the middle of the slide?\n[S2] Yup, it’s flashing at me like a neon sign. That’s our new variable, right?\n[S1] Exactly. It’s the Weierstrass swap—turns every trig bump into a tidy rational road.\n[S2] So the differential changes too. Umm… dx becomes, err, two dt divided by one plus t squared?\n[S1] Nailed it, first go! And check the white line underneath—cos x morphs into one minus t squared over one plus t squared.\n[S2] Oh, that’s the classic identity! Feels like putting on comfy old slippers.\n[S1] Question time: why do we love this substitution for integrals with sine or cosine in the basement?\n[S2] Because fractions with trig are messy. Turning them into algebraic fractions is like translating slang into plain English—much easier to integrate.\n[S1] Bang on. Any worries about domain or sign changes for this problem?\n[S2] Since x runs from zero to pi divided by two, tan of x over two is non-negative, so t behaves nicely.\n[S1] Perfect reasoning. Keep that in your back pocket for the limits slide next. Ready to roll?\n[S2] Totally. My mathematical roller-skates are strapped on.\n[S1] Love the energy! Let’s skate to the limits."
+    },
+    {
+      "step": 2,
+      "script": "[S1] Focus on the very top—x equals zero on the left, x equals pi over two on the right. Both are in crisp white.\n[S2] Right, so plug those into t equals tan of x over two.\n[S1] Go on, do the first.\n[S2] Tan of zero over two is tan zero—that’s zero. So t starts at zero.\n[S1] Smooth ride. Now the upper bound—pi over two.\n[S2] Half of that is pi over four; tan of pi over four is one. So t ends at one.\n[S1] Beautiful symmetry—zero to one. Any sneaky pitfalls?\n[S2] Uh… tan shoots to infinity at pi over two itself, but we’re only taking half of it, so we’re safe.\n[S1] Exactly. All green lights. Feeling comfy with the new interval highlighted on the right?\n[S2] Comfy as a koala in a gum tree. Zero to one—got it.\n[S1] Brilliant. Next up we feed these into the integral. Buckle up!"
+    },
+    {
+      "step": 3,
+      "script": "[S1] Check the yellow fraction under the headline—lot of t’s flying around now.\n[S2] Whoa, looks busier than my inbox on a Monday. Let me parse it.\n[S1] Talk me through.\n[S2] We took the original integrand, replaced dx with two dt over one plus t squared, and cos x with that one minus t squared bit. Then we divided by two plus that.\n[S1] Right, and notice the entire numerator is glowing yellow to remind us it’s the new differential.\n[S2] The denominator still has two plus something, so it’s screaming \"simplify me\".\n[S1] Exactly the next chore. Any algebra plan?\n[S2] Clear the complex fraction—multiply top and bottom by one plus t squared.\n[S1] That’ll sweep the mess under the rug. Ready to crunch numbers on the next slide?\n[S2] Bring on the algebra broom!"
+    },
+    {
+      "step": 4,
+      "script": "[S1] Eyes on the turquoise headline—below it we’ve expanded the denominator step by step.\n[S2] I see two times parenthesis plus one minus t squared—then it collapses to three plus t squared upstairs.\n[S1] So after clearing, the whole integrand shrinks to two dt divided by three plus t squared. Clean, eh?\n[S2] Like a freshly mowed lawn! No more double decker fractions.\n[S1] Sanity check: did we drop any sign or factor?\n[S2] Let me think… numerator still two, denominator three plus t squared—looks legit.\n[S1] Good audit. This simple form screams \"standard arctan\" integral.\n[S2] Exactly—template time.\n[S1] Great, let’s integrate and cash in."
+    },
+    {
+      "step": 5,
+      "script": "[S1] The orange formula in the centre is our cheat-sheet—integral of dt over t squared plus a squared equals one over a arctan of t over a.\n[S2] And here a is root three, because three is a squared.\n[S1] Spot on. Multiply by the outside two and we’ve got two over root three times arctan of t over root three.\n[S2] Boundaries still from zero to one. Feels ready for the home stretch.\n[S1] Before we jump, any chance we could have used natural log?\n[S2] Nope, that’s for dt over t; this is t squared plus constant—pure arctan land.\n[S1] Good filter. Pens ready—let’s slam the limits."
+    },
+    {
+      "step": 6,
+      "script": "[S1] The yellow box around the final answer is practically shouting victory.\n[S2] I’m tracing it with my finger—pi divided by three root three. Nice!\n[S1] Walk the class through the plug-in.\n[S2] Sure: arctan of one over root three is pi over six—thanks unit circle. Arctan zero is zip. Multiply by two over root three and the twos cancel to pi over three root three.\n[S1] Textbook execution. Any leftover doubts?\n[S2] Just one—can I brag about finishing an integral without a single sine or cosine left?\n[S1] Brag away. You tamed the trigonometric beast.\n[S2] Woohoo, integral conquered and boxed in gold.\n[S1] Stellar work. On to the next adventure!"
+    }
+  ]
+}
