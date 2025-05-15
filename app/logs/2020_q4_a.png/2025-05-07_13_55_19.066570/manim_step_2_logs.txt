@@ -1,0 +1,70 @@
+Manim Community [32mv0.[0m[32m19.0[0m
+
+[2;36m[05/07/25 06:56:53][0m[2;36m [0m[32mINFO    [0m [1;33mWriting[0m \int_[1m{[0m[32m0[0m[1m}[0m^[1m{[0m\pi/[32m8[0m[1m}[0m    ]8;id=713217;file:///usr/local/lib/python3.11/site-packages/manim/utils/tex_file_writing.py\[2mtex_file_writing.py[0m]8;;\[2m:[0m]8;id=622197;file:///usr/local/lib/python3.11/site-packages/manim/utils/tex_file_writing.py#111\[2m111[0m]8;;\
+[2;36m                    [0m         x\,\[1;35msin[0m[1m([0m2x[1m)[0m\,dx to          [2m                       [0m
+[2;36m                    [0m         media/Tex/9248a7850ee5830a. [2m                       [0m
+[2;36m                    [0m         tex                         [2m                       [0m
+Animation 0: FadeIn(MathTex('\\int_{0}^{\\pi/8} x\\,\\sin(2x)\\,dx')):   0% 0/60 [00:00<?, ?it/s]Animation 0: FadeIn(MathTex('\\int_{0}^{\\pi/8} x\\,\\sin(2x)\\,dx')):  52% 31/60 [00:00<00:00, 304.18it/s]                                                                                                           [2;36m[05/07/25 06:56:54][0m[2;36m [0m[32mINFO    [0m Animation [32m0[0m : Partial      ]8;id=472039;file:///usr/local/lib/python3.11/site-packages/manim/scene/scene_file_writer.py\[2mscene_file_writer.py[0m]8;;\[2m:[0m]8;id=21111;file:///usr/local/lib/python3.11/site-packages/manim/scene/scene_file_writer.py#588\[2m588[0m]8;;\
+[2;36m                    [0m         movie file written in      [2m                        [0m
+[2;36m                    [0m         [32m'/manim/media/videos/solve[0m [2m                        [0m
+[2;36m                    [0m         [32m_problem/1080p60/partial_m[0m [2m                        [0m
+[2;36m                    [0m         [32movie_files/Step2/222913787[0m [2m                        [0m
+[2;36m                    [0m         [32m_1145000074_110067627.mp4'[0m [2m                        [0m
+[2;36m[05/07/25 06:56:55][0m[2;36m [0m[32mINFO    [0m Animation [32m1[0m : Partial      ]8;id=205643;file:///usr/local/lib/python3.11/site-packages/manim/scene/scene_file_writer.py\[2mscene_file_writer.py[0m]8;;\[2m:[0m]8;id=399705;file:///usr/local/lib/python3.11/site-packages/manim/scene/scene_file_writer.py#588\[2m588[0m]8;;\
+[2;36m                    [0m         movie file written in      [2m                        [0m
+[2;36m                    [0m         [32m'/manim/media/videos/solve[0m [2m                        [0m
+[2;36m                    [0m         [32m_problem/1080p60/partial_m[0m [2m                        [0m
+[2;36m                    [0m         [32movie_files/Step2/230635715[0m [2m                        [0m
+[2;36m                    [0m         [32m4_3394500337_2500847926.mp[0m [2m                        [0m
+[2;36m                    [0m         [32m4'[0m                         [2m                        [0m
+[2;36m                   [0m[2;36m [0m[32mINFO    [0m [1;33mWriting[0m u &= x              ]8;id=361643;file:///usr/local/lib/python3.11/site-packages/manim/utils/tex_file_writing.py\[2mtex_file_writing.py[0m]8;;\[2m:[0m]8;id=301152;file:///usr/local/lib/python3.11/site-packages/manim/utils/tex_file_writing.py#111\[2m111[0m]8;;\
+[2;36m                    [0m         &\Longrightarrow&\; du = dx [2m                       [0m
+[2;36m                    [0m         \\[1m[[0m4pt[1m][0mdv &= \[1;35msin[0m[1m([0m2x[1m)[0m\,dx   [2m                       [0m
+[2;36m                    [0m         &\Longrightarrow&\; v =     [2m                       [0m
+[2;36m                    [0m         -\dfrac[1m{[0m\[1;35mcos[0m[1m([0m2x[1m)[0m[1m}[0m[1m{[0m[32m2[0m[1m}[0m to     [2m                       [0m
+[2;36m                    [0m         media/Tex/488cbb5d68446edd. [2m                       [0m
+[2;36m                    [0m         tex                         [2m                       [0m
+[31m╭─[0m[31m────────────────────[0m[31m [0m[1;31mTraceback [0m[1;2;31m(most recent call last)[0m[31m [0m[31m─────────────────────[0m[31m─╮[0m
+[31m│[0m [2m/usr/local/lib/python3.11/site-packages/manim/cli/render/[0m[1mcommands.py[0m:125 in  [31m│[0m
+[31m│[0m render                                                                       [31m│[0m
+[31m│[0m                                                                              [31m│[0m
+[31m│[0m   [2m122 [0m[2m│   │   │   [0m[94mtry[0m:                                                       [31m│[0m
+[31m│[0m   [2m123 [0m[2m│   │   │   │   [0m[94mwith[0m tempconfig({}):                                   [31m│[0m
+[31m│[0m   [2m124 [0m[2m│   │   │   │   │   [0mscene = SceneClass()                               [31m│[0m
+[31m│[0m [31m❱ [0m125 [2m│   │   │   │   │   [0mscene.render()                                     [31m│[0m
+[31m│[0m   [2m126 [0m[2m│   │   │   [0m[94mexcept[0m [96mException[0m:                                          [31m│[0m
+[31m│[0m   [2m127 [0m[2m│   │   │   │   [0m[1;4merror_console.print_exception()[0m                        [31m│[0m
+[31m│[0m   [2m128 [0m[2m│   │   │   │   [0msys.exit([94m1[0m)                                            [31m│[0m
+[31m│[0m                                                                              [31m│[0m
+[31m│[0m [2m/usr/local/lib/python3.11/site-packages/manim/scene/[0m[1mscene.py[0m:237 in render   [31m│[0m
+[31m│[0m                                                                              [31m│[0m
+[31m│[0m   [2m 234 [0m[2;33m│   │   [0m[33m"""[0m                                                           [31m│[0m
+[31m│[0m   [2m 235 [0m[2m│   │   [0m[96mself[0m.setup()                                                  [31m│[0m
+[31m│[0m   [2m 236 [0m[2m│   │   [0m[94mtry[0m:                                                          [31m│[0m
+[31m│[0m [31m❱ [0m 237 [2m│   │   │   [0m[96mself[0m.construct()                                          [31m│[0m
+[31m│[0m   [2m 238 [0m[2m│   │   [0m[94mexcept[0m EndSceneEarlyException:                                [31m│[0m
+[31m│[0m   [2m 239 [0m[2m│   │   │   [0m[94mpass[0m                                                      [31m│[0m
+[31m│[0m   [2m 240 [0m[2m│   │   [0m[1;4;94mexcept[0m[1;4m RerunSceneException:[0m                                   [31m│[0m
+[31m│[0m                                                                              [31m│[0m
+[31m│[0m [2m/manim/[0m[1msolve_problem.py[0m:64 in construct                                      [31m│[0m
+[31m│[0m                                                                              [31m│[0m
+[31m│[0m   [2m 61 [0m[2m│   │   │   [0mfont_size=EQ_SIZE                                          [31m│[0m
+[31m│[0m   [2m 62 [0m[2m│   │   [0m).next_to(original, DOWN, buff=[94m0.8[0m, aligned_edge=LEFT)         [31m│[0m
+[31m│[0m   [2m 63 [0m[2m│   │   [0massignments[[94m0[0m].set_color(ORANGE)                               [31m│[0m
+[31m│[0m [31m❱ [0m 64 [2m│   │   [0m[1;4massignments[[0m[1;4;94m3[0m[1;4m][0m.set_color(ORANGE)                               [31m│[0m
+[31m│[0m   [2m 65 [0m[2m│   │   [0m[96mself[0m.play(Write(assignments, lag_ratio=[94m0.2[0m), run_time=[94m2[0m)       [31m│[0m
+[31m│[0m   [2m 66 [0m[2m│   │   [0m[96mself[0m.wait([94m1[0m)                                                   [31m│[0m
+[31m│[0m   [2m 67 [0m                                                                       [31m│[0m
+[31m│[0m                                                                              [31m│[0m
+[31m│[0m [2m/usr/local/lib/python3.11/site-packages/manim/mobject/[0m[1mmobject.py[0m:2291 in     [31m│[0m
+[31m│[0m __getitem__                                                                  [31m│[0m
+[31m│[0m                                                                              [31m│[0m
+[31m│[0m   [2m2288 [0m[2m│   │   [0m[94mif[0m [96misinstance[0m(value, [96mslice[0m):                                  [31m│[0m
+[31m│[0m   [2m2289 [0m[2m│   │   │   [0mGroupClass = [96mself[0m.get_group_class()                       [31m│[0m
+[31m│[0m   [2m2290 [0m[2m│   │   │   [0m[94mreturn[0m GroupClass(*self_list.[92m__getitem__[0m(value))          [31m│[0m
+[31m│[0m [31m❱ [0m2291 [2m│   │   [0m[94mreturn[0m [1;4mself_list.[0m[1;4;92m__getitem__[0m[1;4m(value)[0m                           [31m│[0m
+[31m│[0m   [2m2292 [0m[2m│   [0m                                                                  [31m│[0m
+[31m│[0m   [2m2293 [0m[2m│   [0m[94mdef[0m[90m [0m[92m__iter__[0m([96mself[0m):                                               [31m│[0m
+[31m│[0m   [2m2294 [0m[2m│   │   [0m[94mreturn[0m [96miter[0m([96mself[0m.split())                                     [31m│[0m
+[31m╰──────────────────────────────────────────────────────────────────────────────╯[0m
+[1;91mIndexError: [0mlist index out of range

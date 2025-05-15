@@ -1,0 +1,45 @@
+Manim Community [32mv0.[0m[32m19.0[0m
+
+[31m╭─[0m[31m────────────────────[0m[31m [0m[1;31mTraceback [0m[1;2;31m(most recent call last)[0m[31m [0m[31m─────────────────────[0m[31m─╮[0m
+[31m│[0m [2m/usr/local/lib/python3.11/site-packages/manim/cli/render/[0m[1mcommands.py[0m:125 in  [31m│[0m
+[31m│[0m render                                                                       [31m│[0m
+[31m│[0m                                                                              [31m│[0m
+[31m│[0m   [2m122 [0m[2m│   │   │   [0m[94mtry[0m:                                                       [31m│[0m
+[31m│[0m   [2m123 [0m[2m│   │   │   │   [0m[94mwith[0m tempconfig({}):                                   [31m│[0m
+[31m│[0m   [2m124 [0m[2m│   │   │   │   │   [0mscene = SceneClass()                               [31m│[0m
+[31m│[0m [31m❱ [0m125 [2m│   │   │   │   │   [0mscene.render()                                     [31m│[0m
+[31m│[0m   [2m126 [0m[2m│   │   │   [0m[94mexcept[0m [96mException[0m:                                          [31m│[0m
+[31m│[0m   [2m127 [0m[2m│   │   │   │   [0m[1;4merror_console.print_exception()[0m                        [31m│[0m
+[31m│[0m   [2m128 [0m[2m│   │   │   │   [0msys.exit([94m1[0m)                                            [31m│[0m
+[31m│[0m                                                                              [31m│[0m
+[31m│[0m [2m/usr/local/lib/python3.11/site-packages/manim/scene/[0m[1mscene.py[0m:237 in render   [31m│[0m
+[31m│[0m                                                                              [31m│[0m
+[31m│[0m   [2m 234 [0m[2;33m│   │   [0m[33m"""[0m                                                           [31m│[0m
+[31m│[0m   [2m 235 [0m[2m│   │   [0m[96mself[0m.setup()                                                  [31m│[0m
+[31m│[0m   [2m 236 [0m[2m│   │   [0m[94mtry[0m:                                                          [31m│[0m
+[31m│[0m [31m❱ [0m 237 [2m│   │   │   [0m[96mself[0m.construct()                                          [31m│[0m
+[31m│[0m   [2m 238 [0m[2m│   │   [0m[94mexcept[0m EndSceneEarlyException:                                [31m│[0m
+[31m│[0m   [2m 239 [0m[2m│   │   │   [0m[94mpass[0m                                                      [31m│[0m
+[31m│[0m   [2m 240 [0m[2m│   │   [0m[1;4;94mexcept[0m[1;4m RerunSceneException:[0m                                   [31m│[0m
+[31m│[0m                                                                              [31m│[0m
+[31m│[0m [2m/manim/[0m[1msolve_problem.py[0m:167 in construct                                     [31m│[0m
+[31m│[0m                                                                              [31m│[0m
+[31m│[0m   [2m164 [0m[2;90m│   [0m[33m"""Construct the revenue function and locate its turning point"""[0m  [31m│[0m
+[31m│[0m   [2m165 [0m[2m│   [0m                                                                   [31m│[0m
+[31m│[0m   [2m166 [0m[2m│   [0m[94mdef[0m[90m [0m[92mconstruct[0m([96mself[0m):                                               [31m│[0m
+[31m│[0m [31m❱ [0m167 [2m│   │   [0m[96mself[0m.add([1;4mtitle_banner([0m[1;4;33m"[0m[1;4;33mStep 4  –  Revenue & turning point[0m[1;4;33m"[0m[1;4m))[0m   [31m│[0m
+[31m│[0m   [2m168 [0m[2m│   │   [0m                                                               [31m│[0m
+[31m│[0m   [2m169 [0m[2m│   │   [0m[2m# Revenue function[0m                                             [31m│[0m
+[31m│[0m   [2m170 [0m[2m│   │   [0mR_expr = MathTex(                                              [31m│[0m
+[31m│[0m                                                                              [31m│[0m
+[31m│[0m [2m/manim/[0m[1msolve_problem.py[0m:14 in title_banner                                   [31m│[0m
+[31m│[0m                                                                              [31m│[0m
+[31m│[0m   [2m 11 [0m[2;90m│   [0m[33m"""Returns a semi–transparent banner that sits at the top of the s[0m [31m│[0m
+[31m│[0m   [2m 12 [0m[2m│   [0mbanner_height = [94m0.8[0m                                                [31m│[0m
+[31m│[0m   [2m 13 [0m[2m│   [0mbanner = Rectangle(                                                [31m│[0m
+[31m│[0m [31m❱ [0m 14 [2m│   │   [0mwidth=[1;4mFRAME_WIDTH[0m,                                             [31m│[0m
+[31m│[0m   [2m 15 [0m[2m│   │   [0mheight=banner_height,                                          [31m│[0m
+[31m│[0m   [2m 16 [0m[2m│   │   [0mstroke_opacity=[94m0[0m,                                              [31m│[0m
+[31m│[0m   [2m 17 [0m[2m│   │   [0mfill_color=BLUE_E,                                             [31m│[0m
+[31m╰──────────────────────────────────────────────────────────────────────────────╯[0m
+[1;91mNameError: [0mname [32m'FRAME_WIDTH'[0m is not defined

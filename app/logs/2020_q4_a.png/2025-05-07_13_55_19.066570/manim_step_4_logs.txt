@@ -1,0 +1,173 @@
+Manim Community [32mv0.[0m[32m19.0[0m
+
+[2;36m[05/07/25 06:57:04][0m[2;36m [0m[32mINFO    [0m [1;33mWriting[0m [1;35mF[0m[1m([0mx[1m)[0m=               ]8;id=76463;file:///usr/local/lib/python3.11/site-packages/manim/utils/tex_file_writing.py\[2mtex_file_writing.py[0m]8;;\[2m:[0m]8;id=745250;file:///usr/local/lib/python3.11/site-packages/manim/utils/tex_file_writing.py#111\[2m111[0m]8;;\
+[2;36m                    [0m         -\dfrac[1m{[0mx\[1;35mcos[0m[1m([0m2x[1m)[0m[1m}[0m[1m{[0m[32m2[0m[1m}[0m +     [2m                       [0m
+[2;36m                    [0m         \dfrac[1m{[0m\[1;35msin[0m[1m([0m2x[1m)[0m[1m}[0m[1m{[0m[32m4[0m[1m}[0m to      [2m                       [0m
+[2;36m                    [0m         media/Tex/9dc5e1b55a8952aa. [2m                       [0m
+[2;36m                    [0m         tex                         [2m                       [0m
+Animation 0: FadeIn(MathTex('F(x)= -\\dfrac{x\\cos(2x)}{2} + \\dfrac{\\sin(2x)}{4}')):   0% 0/60 [00:00<?, ?it/s]Animation 0: FadeIn(MathTex('F(x)= -\\dfrac{x\\cos(2x)}{2} + \\dfrac{\\sin(2x)}{4}')):  38% 23/60 [00:00<00:00, 226.02it/s]Animation 0: FadeIn(MathTex('F(x)= -\\dfrac{x\\cos(2x)}{2} + \\dfrac{\\sin(2x)}{4}')):  77% 46/60 [00:00<00:00, 225.69it/s]                                                                                                                           [2;36m[05/07/25 06:57:05][0m[2;36m [0m[32mINFO    [0m Animation [32m0[0m : Partial      ]8;id=520816;file:///usr/local/lib/python3.11/site-packages/manim/scene/scene_file_writer.py\[2mscene_file_writer.py[0m]8;;\[2m:[0m]8;id=372284;file:///usr/local/lib/python3.11/site-packages/manim/scene/scene_file_writer.py#588\[2m588[0m]8;;\
+[2;36m                    [0m         movie file written in      [2m                        [0m
+[2;36m                    [0m         [32m'/manim/media/videos/solve[0m [2m                        [0m
+[2;36m                    [0m         [32m_problem/1080p60/partial_m[0m [2m                        [0m
+[2;36m                    [0m         [32movie_files/Step4/222913787[0m [2m                        [0m
+[2;36m                    [0m         [32m_756660557_2859049690.mp4'[0m [2m                        [0m
+[2;36m[05/07/25 06:57:06][0m[2;36m [0m[32mINFO    [0m Animation [32m1[0m : Partial      ]8;id=650576;file:///usr/local/lib/python3.11/site-packages/manim/scene/scene_file_writer.py\[2mscene_file_writer.py[0m]8;;\[2m:[0m]8;id=80491;file:///usr/local/lib/python3.11/site-packages/manim/scene/scene_file_writer.py#588\[2m588[0m]8;;\
+[2;36m                    [0m         movie file written in      [2m                        [0m
+[2;36m                    [0m         [32m'/manim/media/videos/solve[0m [2m                        [0m
+[2;36m                    [0m         [32m_problem/1080p60/partial_m[0m [2m                        [0m
+[2;36m                    [0m         [32movie_files/Step4/230635715[0m [2m                        [0m
+[2;36m                    [0m         [32m4_3394500337_1679443299.mp[0m [2m                        [0m
+[2;36m                    [0m         [32m4'[0m                         [2m                        [0m
+[2;36m                   [0m[2;36m [0m[32mINFO    [0m [1;33mWriting[0m                     ]8;id=748950;file:///usr/local/lib/python3.11/site-packages/manim/utils/tex_file_writing.py\[2mtex_file_writing.py[0m]8;;\[2m:[0m]8;id=164713;file:///usr/local/lib/python3.11/site-packages/manim/utils/tex_file_writing.py#111\[2m111[0m]8;;\
+[2;36m                    [0m         F\!\[1;35mleft[0m[1m([0m\dfrac[1m{[0m\pi[1m}[0m[1m{[0m[32m8[0m[1m}[0m\rig [2m                       [0m
+[2;36m                    [0m         ht[1m)[0m=                        [2m                       [0m
+[2;36m                    [0m         -\dfrac[1m{[0m\pi[1m}[0m[1m{[0m[32m8[0m[1m}[0m\cdot\dfrac[1m{[0m [2m                       [0m
+[2;36m                    [0m         \sqrt2[1m}[0m[1m{[0m[32m2[0m[1m}[0m\cdot\dfrac12+\df [2m                       [0m
+[2;36m                    [0m         rac[1m{[0m\sqrt2[1m}[0m[1m{[0m[32m2[0m[1m}[0m\cdot\[33mdfrac14[0m [2m                       [0m
+[2;36m                    [0m         = -\dfrac[1m{[0m\pi\sqrt2[1m}[0m[1m{[0m[32m32[0m[1m}[0m +  [2m                       [0m
+[2;36m                    [0m         \dfrac[1m{[0m\sqrt2[1m}[0m[1m{[0m[32m8[0m[1m}[0m to        [2m                       [0m
+[2;36m                    [0m         media/Tex/dd44ed95a140b188. [2m                       [0m
+[2;36m                    [0m         tex                         [2m                       [0m
+Animation 2: Write(MathTex('F\\!\\left(\\dfrac{\\pi}{8}\\right)= -\\dfrac{\\pi}{8}\\cdot\\dfrac{\\sqrt2}{2}\\cdot\\dfrac12+\\dfrac{\\sqrt2}{2}\\cdot\\dfrac14= -\\dfrac{\\pi\\sqrt2}{32} + \\dfrac{\\sqrt2}{8}')):   0% 0/180 [00:00<?, ?it/s]Animation 2: Write(MathTex('F\\!\\left(\\dfrac{\\pi}{8}\\right)= -\\dfrac{\\pi}{8}\\cdot\\dfrac{\\sqrt2}{2}\\cdot\\dfrac12+\\dfrac{\\sqrt2}{2}\\cdot\\dfrac14= -\\dfrac{\\pi\\sqrt2}{32} + \\dfrac{\\sqrt2}{8}')):  12% 21/180 [00:00<00:00, 205.21it/s]Animation 2: Write(MathTex('F\\!\\left(\\dfrac{\\pi}{8}\\right)= -\\dfrac{\\pi}{8}\\cdot\\dfrac{\\sqrt2}{2}\\cdot\\dfrac12+\\dfrac{\\sqrt2}{2}\\cdot\\dfrac14= -\\dfrac{\\pi\\sqrt2}{32} + \\dfrac{\\sqrt2}{8}')):  23% 42/180 [00:00<00:00, 186.88it/s]Animation 2: Write(MathTex('F\\!\\left(\\dfrac{\\pi}{8}\\right)= -\\dfrac{\\pi}{8}\\cdot\\dfrac{\\sqrt2}{2}\\cdot\\dfrac12+\\dfrac{\\sqrt2}{2}\\cdot\\dfrac14= -\\dfrac{\\pi\\sqrt2}{32} + \\dfrac{\\sqrt2}{8}')):  34% 61/180 [00:00<00:00, 188.04it/s]Animation 2: Write(MathTex('F\\!\\left(\\dfrac{\\pi}{8}\\right)= -\\dfrac{\\pi}{8}\\cdot\\dfrac{\\sqrt2}{2}\\cdot\\dfrac12+\\dfrac{\\sqrt2}{2}\\cdot\\dfrac14= -\\dfrac{\\pi\\sqrt2}{32} + \\dfrac{\\sqrt2}{8}')):  44% 80/180 [00:00<00:00, 160.40it/s]Animation 2: Write(MathTex('F\\!\\left(\\dfrac{\\pi}{8}\\right)= -\\dfrac{\\pi}{8}\\cdot\\dfrac{\\sqrt2}{2}\\cdot\\dfrac12+\\dfrac{\\sqrt2}{2}\\cdot\\dfrac14= -\\dfrac{\\pi\\sqrt2}{32} + \\dfrac{\\sqrt2}{8}')):  54% 97/180 [00:00<00:00, 134.20it/s]Animation 2: Write(MathTex('F\\!\\left(\\dfrac{\\pi}{8}\\right)= -\\dfrac{\\pi}{8}\\cdot\\dfrac{\\sqrt2}{2}\\cdot\\dfrac12+\\dfrac{\\sqrt2}{2}\\cdot\\dfrac14= -\\dfrac{\\pi\\sqrt2}{32} + \\dfrac{\\sqrt2}{8}')):  62% 112/180 [00:00<00:00, 129.49it/s]Animation 2: Write(MathTex('F\\!\\left(\\dfrac{\\pi}{8}\\right)= -\\dfrac{\\pi}{8}\\cdot\\dfrac{\\sqrt2}{2}\\cdot\\dfrac12+\\dfrac{\\sqrt2}{2}\\cdot\\dfrac14= -\\dfrac{\\pi\\sqrt2}{32} + \\dfrac{\\sqrt2}{8}')):  70% 126/180 [00:00<00:00, 126.28it/s]Animation 2: Write(MathTex('F\\!\\left(\\dfrac{\\pi}{8}\\right)= -\\dfrac{\\pi}{8}\\cdot\\dfrac{\\sqrt2}{2}\\cdot\\dfrac12+\\dfrac{\\sqrt2}{2}\\cdot\\dfrac14= -\\dfrac{\\pi\\sqrt2}{32} + \\dfrac{\\sqrt2}{8}')):  77% 139/180 [00:00<00:00, 123.61it/s]Animation 2: Write(MathTex('F\\!\\left(\\dfrac{\\pi}{8}\\right)= -\\dfrac{\\pi}{8}\\cdot\\dfrac{\\sqrt2}{2}\\cdot\\dfrac12+\\dfrac{\\sqrt2}{2}\\cdot\\dfrac14= -\\dfrac{\\pi\\sqrt2}{32} + \\dfrac{\\sqrt2}{8}')):  84% 152/180 [00:01<00:00, 124.74it/s]Animation 2: Write(MathTex('F\\!\\left(\\dfrac{\\pi}{8}\\right)= -\\dfrac{\\pi}{8}\\cdot\\dfrac{\\sqrt2}{2}\\cdot\\dfrac12+\\dfrac{\\sqrt2}{2}\\cdot\\dfrac14= -\\dfrac{\\pi\\sqrt2}{32} + \\dfrac{\\sqrt2}{8}')):  92% 165/180 [00:01<00:00, 125.41it/s]Animation 2: Write(MathTex('F\\!\\left(\\dfrac{\\pi}{8}\\right)= -\\dfrac{\\pi}{8}\\cdot\\dfrac{\\sqrt2}{2}\\cdot\\dfrac12+\\dfrac{\\sqrt2}{2}\\cdot\\dfrac14= -\\dfrac{\\pi\\sqrt2}{32} + \\dfrac{\\sqrt2}{8}')):  99% 178/180 [00:01<00:00, 125.01it/s]                                                                                                                                                                                                                                                         [2;36m[05/07/25 06:57:08][0m[2;36m [0m[32mINFO    [0m Animation [32m2[0m : Partial      ]8;id=885552;file:///usr/local/lib/python3.11/site-packages/manim/scene/scene_file_writer.py\[2mscene_file_writer.py[0m]8;;\[2m:[0m]8;id=661385;file:///usr/local/lib/python3.11/site-packages/manim/scene/scene_file_writer.py#588\[2m588[0m]8;;\
+[2;36m                    [0m         movie file written in      [2m                        [0m
+[2;36m                    [0m         [32m'/manim/media/videos/solve[0m [2m                        [0m
+[2;36m                    [0m         [32m_problem/1080p60/partial_m[0m [2m                        [0m
+[2;36m                    [0m         [32movie_files/Step4/230635715[0m [2m                        [0m
+[2;36m                    [0m         [32m4_2579912549_1288697664.mp[0m [2m                        [0m
+[2;36m                    [0m         [32m4'[0m                         [2m                        [0m
+[2;36m[05/07/25 06:57:09][0m[2;36m [0m[32mINFO    [0m Animation [32m3[0m : Partial      ]8;id=798255;file:///usr/local/lib/python3.11/site-packages/manim/scene/scene_file_writer.py\[2mscene_file_writer.py[0m]8;;\[2m:[0m]8;id=816059;file:///usr/local/lib/python3.11/site-packages/manim/scene/scene_file_writer.py#588\[2m588[0m]8;;\
+[2;36m                    [0m         movie file written in      [2m                        [0m
+[2;36m                    [0m         [32m'/manim/media/videos/solve[0m [2m                        [0m
+[2;36m                    [0m         [32m_problem/1080p60/partial_m[0m [2m                        [0m
+[2;36m                    [0m         [32movie_files/Step4/230635715[0m [2m                        [0m
+[2;36m                    [0m         [32m4_4217992463_2090592557.mp[0m [2m                        [0m
+[2;36m                    [0m         [32m4'[0m                         [2m                        [0m
+[2;36m                   [0m[2;36m [0m[32mINFO    [0m [1;33mWriting[0m [1;35mF[0m[1m([0m[32m0[0m[1m)[0m=[32m0[0m to           ]8;id=526039;file:///usr/local/lib/python3.11/site-packages/manim/utils/tex_file_writing.py\[2mtex_file_writing.py[0m]8;;\[2m:[0m]8;id=652607;file:///usr/local/lib/python3.11/site-packages/manim/utils/tex_file_writing.py#111\[2m111[0m]8;;\
+[2;36m                    [0m         media/Tex/bcc02529739cbd1c. [2m                       [0m
+[2;36m                    [0m         tex                         [2m                       [0m
+Animation 4: Write(MathTex('F(0)=0')):   0% 0/60 [00:00<?, ?it/s]Animation 4: Write(MathTex('F(0)=0')):  68% 41/60 [00:00<00:00, 409.60it/s]                                                                           [2;36m[05/07/25 06:57:10][0m[2;36m [0m[32mINFO    [0m Animation [32m4[0m : Partial      ]8;id=825306;file:///usr/local/lib/python3.11/site-packages/manim/scene/scene_file_writer.py\[2mscene_file_writer.py[0m]8;;\[2m:[0m]8;id=916410;file:///usr/local/lib/python3.11/site-packages/manim/scene/scene_file_writer.py#588\[2m588[0m]8;;\
+[2;36m                    [0m         movie file written in      [2m                        [0m
+[2;36m                    [0m         [32m'/manim/media/videos/solve[0m [2m                        [0m
+[2;36m                    [0m         [32m_problem/1080p60/partial_m[0m [2m                        [0m
+[2;36m                    [0m         [32movie_files/Step4/230635715[0m [2m                        [0m
+[2;36m                    [0m         [32m4_4274917785_3394839103.mp[0m [2m                        [0m
+[2;36m                    [0m         [32m4'[0m                         [2m                        [0m
+[2;36m[05/07/25 06:57:11][0m[2;36m [0m[32mINFO    [0m Animation [32m5[0m : Partial      ]8;id=109998;file:///usr/local/lib/python3.11/site-packages/manim/scene/scene_file_writer.py\[2mscene_file_writer.py[0m]8;;\[2m:[0m]8;id=379997;file:///usr/local/lib/python3.11/site-packages/manim/scene/scene_file_writer.py#588\[2m588[0m]8;;\
+[2;36m                    [0m         movie file written in      [2m                        [0m
+[2;36m                    [0m         [32m'/manim/media/videos/solve[0m [2m                        [0m
+[2;36m                    [0m         [32m_problem/1080p60/partial_m[0m [2m                        [0m
+[2;36m                    [0m         [32movie_files/Step4/230635715[0m [2m                        [0m
+[2;36m                    [0m         [32m4_3394500337_2591232956.mp[0m [2m                        [0m
+[2;36m                    [0m         [32m4'[0m                         [2m                        [0m
+[2;36m                   [0m[2;36m [0m[32mINFO    [0m [1;33mWriting[0m                     ]8;id=448914;file:///usr/local/lib/python3.11/site-packages/manim/utils/tex_file_writing.py\[2mtex_file_writing.py[0m]8;;\[2m:[0m]8;id=475474;file:///usr/local/lib/python3.11/site-packages/manim/utils/tex_file_writing.py#111\[2m111[0m]8;;\
+[2;36m                    [0m         \int_[1m{[0m[32m0[0m[1m}[0m^[1m{[0m\pi/[32m8[0m[1m}[0mx\[1;35msin[0m[1m([0m2x[1m)[0m\, [2m                       [0m
+[2;36m                    [0m         [33mdx[0m=                         [2m                       [0m
+[2;36m                    [0m         \dfrac[1m{[0m\sqrt2\,[1m([0m[32m4[0m-\pi[1m)[0m[1m}[0m[1m{[0m[32m32[0m[1m}[0m [2m                       [0m
+[2;36m                    [0m         to                          [2m                       [0m
+[2;36m                    [0m         media/Tex/f5e659410e87021a. [2m                       [0m
+[2;36m                    [0m         tex                         [2m                       [0m
+Animation 6: Write(MathTex('\\int_{0}^{\\pi/8}x\\sin(2x)\\,dx= \\dfrac{\\sqrt2\\,(4-\\pi)}{32}')):   0% 0/90 [00:00<?, ?it/s]Animation 6: Write(MathTex('\\int_{0}^{\\pi/8}x\\sin(2x)\\,dx= \\dfrac{\\sqrt2\\,(4-\\pi)}{32}')):  29% 26/90 [00:00<00:00, 249.98it/s]Animation 6: Write(MathTex('\\int_{0}^{\\pi/8}x\\sin(2x)\\,dx= \\dfrac{\\sqrt2\\,(4-\\pi)}{32}')):  57% 51/90 [00:00<00:00, 229.37it/s]Animation 6: Write(MathTex('\\int_{0}^{\\pi/8}x\\sin(2x)\\,dx= \\dfrac{\\sqrt2\\,(4-\\pi)}{32}')):  83% 75/90 [00:00<00:00, 211.86it/s]                                                                                                                                       [2;36m[05/07/25 06:57:13][0m[2;36m [0m[32mINFO    [0m Animation [32m6[0m : Partial      ]8;id=291200;file:///usr/local/lib/python3.11/site-packages/manim/scene/scene_file_writer.py\[2mscene_file_writer.py[0m]8;;\[2m:[0m]8;id=347974;file:///usr/local/lib/python3.11/site-packages/manim/scene/scene_file_writer.py#588\[2m588[0m]8;;\
+[2;36m                    [0m         movie file written in      [2m                        [0m
+[2;36m                    [0m         [32m'/manim/media/videos/solve[0m [2m                        [0m
+[2;36m                    [0m         [32m_problem/1080p60/partial_m[0m [2m                        [0m
+[2;36m                    [0m         [32movie_files/Step4/230635715[0m [2m                        [0m
+[2;36m                    [0m         [32m4_2374039775_3263188402.mp[0m [2m                        [0m
+[2;36m                    [0m         [32m4'[0m                         [2m                        [0m
+Animation 7: Circumscribe(Group):   0% 0/60 [00:00<?, ?it/s]                                                            [2;36m                   [0m[2;36m [0m[32mINFO    [0m Animation [32m7[0m : Partial      ]8;id=75339;file:///usr/local/lib/python3.11/site-packages/manim/scene/scene_file_writer.py\[2mscene_file_writer.py[0m]8;;\[2m:[0m]8;id=699304;file:///usr/local/lib/python3.11/site-packages/manim/scene/scene_file_writer.py#588\[2m588[0m]8;;\
+[2;36m                    [0m         movie file written in      [2m                        [0m
+[2;36m                    [0m         [32m'/manim/media/videos/solve[0m [2m                        [0m
+[2;36m                    [0m         [32m_problem/1080p60/partial_m[0m [2m                        [0m
+[2;36m                    [0m         [32movie_files/Step4/230635715[0m [2m                        [0m
+[2;36m                    [0m         [32m4_1646487632_1740886359.mp[0m [2m                        [0m
+[2;36m                    [0m         [32m4'[0m                         [2m                        [0m
+[2;36m[05/07/25 06:57:14][0m[2;36m [0m[32mINFO    [0m Animation [32m8[0m : Partial      ]8;id=894640;file:///usr/local/lib/python3.11/site-packages/manim/scene/scene_file_writer.py\[2mscene_file_writer.py[0m]8;;\[2m:[0m]8;id=25147;file:///usr/local/lib/python3.11/site-packages/manim/scene/scene_file_writer.py#588\[2m588[0m]8;;\
+[2;36m                    [0m         movie file written in      [2m                        [0m
+[2;36m                    [0m         [32m'/manim/media/videos/solve[0m [2m                        [0m
+[2;36m                    [0m         [32m_problem/1080p60/partial_m[0m [2m                        [0m
+[2;36m                    [0m         [32movie_files/Step4/230635715[0m [2m                        [0m
+[2;36m                    [0m         [32m4_3394500337_3422752769.mp[0m [2m                        [0m
+[2;36m                    [0m         [32m4'[0m                         [2m                        [0m
+[2;36m                   [0m[2;36m [0m[32mINFO    [0m Combining to Movie file.   ]8;id=997937;file:///usr/local/lib/python3.11/site-packages/manim/scene/scene_file_writer.py\[2mscene_file_writer.py[0m]8;;\[2m:[0m]8;id=368943;file:///usr/local/lib/python3.11/site-packages/manim/scene/scene_file_writer.py#739\[2m739[0m]8;;\
+[2;36m                   [0m[2;36m [0m[32mINFO    [0m                            ]8;id=963275;file:///usr/local/lib/python3.11/site-packages/manim/scene/scene_file_writer.py\[2mscene_file_writer.py[0m]8;;\[2m:[0m]8;id=877786;file:///usr/local/lib/python3.11/site-packages/manim/scene/scene_file_writer.py#886\[2m886[0m]8;;\
+[2;36m                    [0m         [1;33mFile[0m ready at              [2m                        [0m
+[2;36m                    [0m         [32m'/manim/media/videos/solve[0m [2m                        [0m
+[2;36m                    [0m         [32m_problem/1080p60/step_4.mp[0m [2m                        [0m
+[2;36m                    [0m         [32m4'[0m                         [2m                        [0m
+[2;36m                    [0m                                    [2m                        [0m
+[2;36m                   [0m[2;36m [0m[32mINFO    [0m [1;33mRendered[0m Step4                         ]8;id=735023;file:///usr/local/lib/python3.11/site-packages/manim/scene/scene.py\[2mscene.py[0m]8;;\[2m:[0m]8;id=482534;file:///usr/local/lib/python3.11/site-packages/manim/scene/scene.py#255\[2m255[0m]8;;\
+[2;36m                    [0m         [1;33mPlayed[0m [32m9[0m [1;33manimations[0m                    [2m            [0m
+[31m╭─[0m[31m────────────────────[0m[31m [0m[1;31mTraceback [0m[1;2;31m(most recent call last)[0m[31m [0m[31m─────────────────────[0m[31m─╮[0m
+[31m│[0m [2m/usr/local/lib/python3.11/site-packages/manim/cli/render/[0m[1mcommands.py[0m:125 in  [31m│[0m
+[31m│[0m render                                                                       [31m│[0m
+[31m│[0m                                                                              [31m│[0m
+[31m│[0m   [2m122 [0m[2m│   │   │   [0m[94mtry[0m:                                                       [31m│[0m
+[31m│[0m   [2m123 [0m[2m│   │   │   │   [0m[94mwith[0m tempconfig({}):                                   [31m│[0m
+[31m│[0m   [2m124 [0m[2m│   │   │   │   │   [0mscene = SceneClass()                               [31m│[0m
+[31m│[0m [31m❱ [0m125 [2m│   │   │   │   │   [0mscene.render()                                     [31m│[0m
+[31m│[0m   [2m126 [0m[2m│   │   │   [0m[94mexcept[0m [96mException[0m:                                          [31m│[0m
+[31m│[0m   [2m127 [0m[2m│   │   │   │   [0m[1;4merror_console.print_exception()[0m                        [31m│[0m
+[31m│[0m   [2m128 [0m[2m│   │   │   │   [0msys.exit([94m1[0m)                                            [31m│[0m
+[31m│[0m                                                                              [31m│[0m
+[31m│[0m [2m/usr/local/lib/python3.11/site-packages/manim/scene/[0m[1mscene.py[0m:264 in render   [31m│[0m
+[31m│[0m                                                                              [31m│[0m
+[31m│[0m   [2m 261 [0m[2m│   │   │   [0mconfig[[33m"[0m[33mpreview[0m[33m"[0m] = [94mTrue[0m                                  [31m│[0m
+[31m│[0m   [2m 262 [0m[2m│   │   [0m                                                              [31m│[0m
+[31m│[0m   [2m 263 [0m[2m│   │   [0m[94mif[0m config[[33m"[0m[33mpreview[0m[33m"[0m] [95mor[0m config[[33m"[0m[33mshow_in_file_browser[0m[33m"[0m]:       [31m│[0m
+[31m│[0m [31m❱ [0m 264 [2m│   │   │   [0m[1;4mopen_media_file([0m[1;4;96mself[0m[1;4m.renderer.file_writer)[0m                [31m│[0m
+[31m│[0m   [2m 265 [0m[2m│   [0m                                                                  [31m│[0m
+[31m│[0m   [2m 266 [0m[2m│   [0m[94mdef[0m[90m [0m[92msetup[0m([96mself[0m):                                                  [31m│[0m
+[31m│[0m   [2m 267 [0m[2;90m│   │   [0m[33m"""[0m                                                           [31m│[0m
+[31m│[0m                                                                              [31m│[0m
+[31m│[0m [2m/usr/local/lib/python3.11/site-packages/manim/utils/[0m[1mfile_ops.py[0m:235 in       [31m│[0m
+[31m│[0m open_media_file                                                              [31m│[0m
+[31m│[0m                                                                              [31m│[0m
+[31m│[0m   [2m232 [0m[2m│   │   [0m[94mif[0m config[[33m"[0m[33mshow_in_file_browser[0m[33m"[0m]:                             [31m│[0m
+[31m│[0m   [2m233 [0m[2m│   │   │   [0mopen_file(file_path, [94mTrue[0m)                                 [31m│[0m
+[31m│[0m   [2m234 [0m[2m│   │   [0m[94mif[0m config[[33m"[0m[33mpreview[0m[33m"[0m]:                                          [31m│[0m
+[31m│[0m [31m❱ [0m235 [2m│   │   │   [0m[1;4mopen_file(file_path, [0m[1;4;94mFalse[0m[1;4m)[0m                                [31m│[0m
+[31m│[0m   [2m236 [0m[2m│   │   │   [0m                                                           [31m│[0m
+[31m│[0m   [2m237 [0m[2m│   │   │   [0mlogger.info([33mf[0m[33m"[0m[33mPreviewed File at: [0m[33m'[0m[33m{[0mfile_path[33m}[0m[33m'[0m[33m"[0m)           [31m│[0m
+[31m│[0m   [2m238 [0m                                                                       [31m│[0m
+[31m│[0m                                                                              [31m│[0m
+[31m│[0m [2m/usr/local/lib/python3.11/site-packages/manim/utils/[0m[1mfile_ops.py[0m:218 in       [31m│[0m
+[31m│[0m open_file                                                                    [31m│[0m
+[31m│[0m                                                                              [31m│[0m
+[31m│[0m   [2m215 [0m[2m│   │   [0m[94mif[0m config.preview_command:                                     [31m│[0m
+[31m│[0m   [2m216 [0m[2m│   │   │   [0mcommands = [config.preview_command]                        [31m│[0m
+[31m│[0m   [2m217 [0m[2m│   │   [0mcommands.append([96mstr[0m(file_path))                                [31m│[0m
+[31m│[0m [31m❱ [0m218 [2m│   │   [0m[1;4msp.run(commands)[0m                                               [31m│[0m
+[31m│[0m   [2m219 [0m                                                                       [31m│[0m
+[31m│[0m   [2m220 [0m                                                                       [31m│[0m
+[31m│[0m   [2m221 [0m[94mdef[0m[90m [0m[92mopen_media_file[0m(file_writer: SceneFileWriter) -> [94mNone[0m:             [31m│[0m
+[31m│[0m                                                                              [31m│[0m
+[31m│[0m [2m/usr/local/lib/python3.11/[0m[1msubprocess.py[0m:548 in run                           [31m│[0m
+[31m│[0m                                                                              [31m│[0m
+[31m│[0m   [2m 545 [0m[2m│   │   [0mkwargs[[33m'[0m[33mstdout[0m[33m'[0m] = PIPE                                       [31m│[0m
+[31m│[0m   [2m 546 [0m[2m│   │   [0mkwargs[[33m'[0m[33mstderr[0m[33m'[0m] = PIPE                                       [31m│[0m
+[31m│[0m   [2m 547 [0m[2m│   [0m                                                                  [31m│[0m
+[31m│[0m [31m❱ [0m 548 [2m│   [0m[94mwith[0m [1;4mPopen(*popenargs, **kwargs)[0m [94mas[0m process:                      [31m│[0m
+[31m│[0m   [2m 549 [0m[2m│   │   [0m[94mtry[0m:                                                          [31m│[0m
+[31m│[0m   [2m 550 [0m[2m│   │   │   [0mstdout, stderr = process.communicate([96minput[0m, timeout=timeo [31m│[0m
+[31m│[0m   [2m 551 [0m[2m│   │   [0m[94mexcept[0m TimeoutExpired [94mas[0m exc:                                 [31m│[0m
+[31m│[0m                                                                              [31m│[0m
+[31m│[0m [2m/usr/local/lib/python3.11/[0m[1msubprocess.py[0m:1026 in __init__                     [31m│[0m
+[31m│[0m                                                                              [31m│[0m
+[31m│[0m   [2m1023 [0m[2m│   │   │   │   │   [0m[96mself[0m.stderr = io.TextIOWrapper([96mself[0m.stderr,       [31m│[0m
+[31m│[0m   [2m1024 [0m[2m│   │   │   │   │   │   │   [0mencoding=encoding, errors=errors)         [31m│[0m
+[31m│[0m   [2m1025 [0m[2m│   │   │   [0m                                                          [31m│[0m
+[31m│[0m [31m❱ [0m1026 [2m│   │   │   [0m[96mself[0m._execute_child(args, executable, preexec_fn, close_f [31m│[0m
+[31m│[0m   [2m1027 [0m[2m│   │   │   │   │   │   │   │   [0mpass_fds, cwd, env,                   [31m│[0m
+[31m│[0m   [2m1028 [0m[2m│   │   │   │   │   │   │   │   [0mstartupinfo, creationflags, shell,    [31m│[0m
+[31m│[0m   [2m1029 [0m[2m│   │   │   │   │   │   │   │   [0mp2cread, p2cwrite,                    [31m│[0m
+[31m│[0m                                                                              [31m│[0m
+[31m│[0m [2m/usr/local/lib/python3.11/[0m[1msubprocess.py[0m:1955 in _execute_child               [31m│[0m
+[31m│[0m                                                                              [31m│[0m
+[31m│[0m   [2m1952 [0m[2m│   │   │   │   │   [0m[94mif[0m errno_num != [94m0[0m:                                [31m│[0m
+[31m│[0m   [2m1953 [0m[2m│   │   │   │   │   │   [0merr_msg = os.strerror(errno_num)              [31m│[0m
+[31m│[0m   [2m1954 [0m[2m│   │   │   │   │   [0m[94mif[0m err_filename [95mis[0m [95mnot[0m [94mNone[0m:                      [31m│[0m
+[31m│[0m [31m❱ [0m1955 [2m│   │   │   │   │   │   [0m[1;4;94mraise[0m[1;4m child_exception_type(errno_num, err_msg[0m [31m│[0m
+[31m│[0m   [2m1956 [0m[2m│   │   │   │   │   [0m[94melse[0m:                                             [31m│[0m
+[31m│[0m   [2m1957 [0m[2m│   │   │   │   │   │   [0m[94mraise[0m child_exception_type(errno_num, err_msg [31m│[0m
+[31m│[0m   [2m1958 [0m[2m│   │   │   │   [0m[94mraise[0m child_exception_type(err_msg)                   [31m│[0m
+[31m╰──────────────────────────────────────────────────────────────────────────────╯[0m
+[1;91mFileNotFoundError: [0m[1m[[0mErrno [32m2[0m[1m][0m No such file or directory: [32m'xdg-open'[0m

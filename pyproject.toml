@@ -13,6 +13,7 @@ dependencies = [
     "openai>=1.76.0",
     "pydub>=0.25.1",
     "python-dotenv>=1.1.0",
+    "python-ulid>=3.0.0",
     "requests>=2.32.3",
     "sympy>=1.14.0",
 ]

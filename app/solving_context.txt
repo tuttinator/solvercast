@@ -1,0 +1,112 @@
+
+The solution solving steps should be related to this curriculum of learning outcomes from the first year University of London Mathematical Methods course:
+
+```
+FUNCTIONS AND DIFFERENTIATION
+
+use identities to rewrite expressions involving powers, logarithms, and trigonometric functions
+
+solve problems from economics-based subjects that involve functions
+
+find simple derivatives using the definition of the derivative
+
+find derivatives using standard derivatives and the rules of differentiation
+
+use the derivative to find tangent lines and use these to approximate functions
+
+solve problems from economics-based subjects that involve derivatives.
+
+ONE VARIABLE OPTIMISATION
+
+use identities to rewrite expressions involving powers, logarithms, and trigonometric functions
+
+solve problems from economics-based subjects that involve functions
+
+find simple derivatives using the definition of the derivative
+
+find derivatives using standard derivatives and the rules of differentiation
+
+use the derivative to find tangent lines and use these to approximate functions
+
+solve problems from economics-based subjects that involve derivatives.
+
+INTEGRATION—FUNDAMENTALS
+
+use first- and second-order derivatives to identify the relevant features of a function
+
+sketch curves by identifying their key features
+
+optimise functions of one variable
+
+solve problems from economics-based subjects that involve optimisation.
+
+INTEGRATION—CONTINUED
+
+find integrals using integration by substitution
+
+find integrals using integration by parts
+
+find integrals by simplifying the integrand using partial fractions and trigonometric identities.
+
+FUNCTIONS OF SEVERAL VARIABLES
+
+visualise a surface by using sections and contours
+
+find partial derivatives
+
+use the chain rule to find derivatives of various kinds
+
+show that a function is homogeneous and verify Euler's theorem
+
+solve problems from economics-based subjects that involve partial derivatives.
+
+MULTIVARIATE OPTIMISATION
+
+find and classify the stationary points of a function of two variables
+
+solve problems from economics-based subjects that involve unconstrained optimisation
+
+optimise a function in the presence of constraints
+
+solve problems from economics-based subjects that involve constrained optimisation.
+
+MATRICES AND LINEAR EQUATIONS
+
+perform the given operations on vectors and matrices
+
+use cofactor expansions to find determinants
+
+determine whether a matrix is invertible and, if it is, find its inverse
+
+solve systems of linear equations using row operations, an inverse matrix, or Cramer's rule, as appropriate.
+
+DIFFERENTIAL EQUATIONS
+
+identify and solve separable and linear first-order ODEs
+
+identify and solve homogeneous and non-homogeneous second-order ODEs with constant coefficients
+
+solve coupled systems of first-order ODEs
+
+solve problems from economics-based subjects that involve applications of ODEs.
+
+DIFFERENCE EQUATIONS
+
+identify and solve first-order difference equations
+
+identify and solve homogeneous and non-homogeneous second-order difference equations
+
+solve coupled systems of first-order difference equations
+
+solve problems from economics-based subjects that involve applications of difference equations.
+
+DIAGONALISATION
+
+find the eigenvalues and eigenvectors of a 2 x 2 matrix
+
+diagonalise a 2 x 2 matrix
+
+use diagonalisation to solve coupled systems of first-order differential and difference equations
+
+solve problems that involve the cobweb model.
+```

@@ -1,0 +1,154 @@
+Manim Community [32mv0.[0m[32m19.0[0m
+
+[2;36m[05/07/25 06:57:15][0m[2;36m [0m[32mINFO    [0m [1;33mWriting[0m                     ]8;id=940170;file:///usr/local/lib/python3.11/site-packages/manim/utils/tex_file_writing.py\[2mtex_file_writing.py[0m]8;;\[2m:[0m]8;id=947563;file:///usr/local/lib/python3.11/site-packages/manim/utils/tex_file_writing.py#111\[2m111[0m]8;;\
+[2;36m                    [0m         \boxed[1m{[0m\displaystyle        [2m                       [0m
+[2;36m                    [0m         \int_[1m{[0m[32m0[0m[1m}[0m^[1m{[0m\pi/[32m8[0m[1m}[0mx\[1;35msin[0m[1m([0m2x[1m)[0m\, [2m                       [0m
+[2;36m                    [0m         [33mdx[0m=                         [2m                       [0m
+[2;36m                    [0m         \dfrac[1m{[0m\sqrt2\,[1m([0m[32m4[0m-\pi[1m)[0m[1m}[0m[1m{[0m[32m32[0m[1m}[0m [2m                       [0m
+[2;36m                    [0m         [1m}[0m to                        [2m                       [0m
+[2;36m                    [0m         media/Tex/b9b576c803490146. [2m                       [0m
+[2;36m                    [0m         tex                         [2m                       [0m
+Animation 0: FadeIn(MathTex('\\boxed{\\displaystyle \\int_{0}^{\\pi/8}x\\sin(2x)\\,dx= \\dfrac{\\sqrt2\\,(4-\\pi)}{32}}')):   0% 0/60 [00:00<?, ?it/s]Animation 0: FadeIn(MathTex('\\boxed{\\displaystyle \\int_{0}^{\\pi/8}x\\sin(2x)\\,dx= \\dfrac{\\sqrt2\\,(4-\\pi)}{32}}')):  35% 21/60 [00:00<00:00, 201.07it/s]Animation 0: FadeIn(MathTex('\\boxed{\\displaystyle \\int_{0}^{\\pi/8}x\\sin(2x)\\,dx= \\dfrac{\\sqrt2\\,(4-\\pi)}{32}}')):  70% 42/60 [00:00<00:00, 195.11it/s]                                                                                                                                                                [2;36m[05/07/25 06:57:16][0m[2;36m [0m[32mINFO    [0m Animation [32m0[0m : Partial      ]8;id=88222;file:///usr/local/lib/python3.11/site-packages/manim/scene/scene_file_writer.py\[2mscene_file_writer.py[0m]8;;\[2m:[0m]8;id=5872;file:///usr/local/lib/python3.11/site-packages/manim/scene/scene_file_writer.py#588\[2m588[0m]8;;\
+[2;36m                    [0m         movie file written in      [2m                        [0m
+[2;36m                    [0m         [32m'/manim/media/videos/solve[0m [2m                        [0m
+[2;36m                    [0m         [32m_problem/1080p60/partial_m[0m [2m                        [0m
+[2;36m                    [0m         [32movie_files/Step5/222913787[0m [2m                        [0m
+[2;36m                    [0m         [32m_3960071170_571630195.mp4'[0m [2m                        [0m
+[2;36m[05/07/25 06:57:17][0m[2;36m [0m[32mINFO    [0m Animation [32m1[0m : Partial      ]8;id=480689;file:///usr/local/lib/python3.11/site-packages/manim/scene/scene_file_writer.py\[2mscene_file_writer.py[0m]8;;\[2m:[0m]8;id=277910;file:///usr/local/lib/python3.11/site-packages/manim/scene/scene_file_writer.py#588\[2m588[0m]8;;\
+[2;36m                    [0m         movie file written in      [2m                        [0m
+[2;36m                    [0m         [32m'/manim/media/videos/solve[0m [2m                        [0m
+[2;36m                    [0m         [32m_problem/1080p60/partial_m[0m [2m                        [0m
+[2;36m                    [0m         [32movie_files/Step5/230635715[0m [2m                        [0m
+[2;36m                    [0m         [32m4_3394500337_3439794888.mp[0m [2m                        [0m
+[2;36m                    [0m         [32m4'[0m                         [2m                        [0m
+[2;36m                   [0m[2;36m [0m[32mINFO    [0m [1;33mWriting[0m • Domain            ]8;id=668504;file:///usr/local/lib/python3.11/site-packages/manim/utils/tex_file_writing.py\[2mtex_file_writing.py[0m]8;;\[2m:[0m]8;id=47350;file:///usr/local/lib/python3.11/site-packages/manim/utils/tex_file_writing.py#111\[2m111[0m]8;;\
+[2;36m                    [0m         $x\in[1m[[0m[32m0[0m,\pi/[32m8[0m[1m][0m$,            [2m                       [0m
+[2;36m                    [0m         $\[1;35msin[0m[1m([0m2x[1m)[0m\ge0$              [2m                       [0m
+[2;36m                    [0m         $\Rightarrow$ integral $>[32m0[0m$ [2m                       [0m
+[2;36m                    [0m         to                          [2m                       [0m
+[2;36m                    [0m         media/Tex/d9246de8f2127c4a. [2m                       [0m
+[2;36m                    [0m         tex                         [2m                       [0m
+[2;36m                   [0m[2;36m [0m[32mINFO    [0m [1;33mWriting[0m •                   ]8;id=531127;file:///usr/local/lib/python3.11/site-packages/manim/utils/tex_file_writing.py\[2mtex_file_writing.py[0m]8;;\[2m:[0m]8;id=306080;file:///usr/local/lib/python3.11/site-packages/manim/utils/tex_file_writing.py#111\[2m111[0m]8;;\
+[2;36m                    [0m         $[32m4[0m-\pi\approx0.[32m86[0m$          [2m                       [0m
+[2;36m                    [0m         $\Rightarrow$ value         [2m                       [0m
+[2;36m                    [0m         $\approx0.[32m038[0m$ [1m([0mreasonable[1m)[0m [2m                       [0m
+[2;36m                    [0m         to                          [2m                       [0m
+[2;36m                    [0m         media/Tex/c2ed7e1ad2c54c88. [2m                       [0m
+[2;36m                    [0m         tex                         [2m                       [0m
+[2;36m                   [0m[2;36m [0m[32mINFO    [0m [1;33mWriting[0m • Used integration  ]8;id=604284;file:///usr/local/lib/python3.11/site-packages/manim/utils/tex_file_writing.py\[2mtex_file_writing.py[0m]8;;\[2m:[0m]8;id=355980;file:///usr/local/lib/python3.11/site-packages/manim/utils/tex_file_writing.py#111\[2m111[0m]8;;\
+[2;36m                    [0m         by parts  ➜ curriculum      [2m                       [0m
+[2;36m                    [0m         objective met to            [2m                       [0m
+[2;36m                    [0m         media/Tex/8ea35092f59ab7e3. [2m                       [0m
+[2;36m                    [0m         tex                         [2m                       [0m
+[2;36m                   [0m[2;36m [0m[1;31mERROR   [0m LaTeX compilation error:    ]8;id=683542;file:///usr/local/lib/python3.11/site-packages/manim/utils/tex_file_writing.py\[2mtex_file_writing.py[0m]8;;\[2m:[0m]8;id=866584;file:///usr/local/lib/python3.11/site-packages/manim/utils/tex_file_writing.py#314\[2m314[0m]8;;\
+[2;36m                    [0m         LaTeX Error: Unicode        [2m                       [0m
+[2;36m                    [0m         character ➜ [1m([0mU+279C[1m)[0m        [2m                       [0m
+[2;36m                    [0m                                     [2m                       [0m
+[2;36m                   [0m[2;36m [0m[1;31mERROR   [0m Context of error:           ]8;id=232709;file:///usr/local/lib/python3.11/site-packages/manim/utils/tex_file_writing.py\[2mtex_file_writing.py[0m]8;;\[2m:[0m]8;id=554400;file:///usr/local/lib/python3.11/site-packages/manim/utils/tex_file_writing.py#348\[2m348[0m]8;;\
+[2;36m                    [0m         \usepackage[1m{[0mamssymb[1m}[0m        [2m                       [0m
+[2;36m                    [0m         \begin[1m{[0mdocument[1m}[0m            [2m                       [0m
+[2;36m                    [0m         -> \begin[1m{[0mcenter[1m}[0m           [2m                       [0m
+[2;36m                    [0m         • Used integration by parts [2m                       [0m
+[2;36m                    [0m         ➜ curriculum objective met  [2m                       [0m
+[2;36m                    [0m         \end[1m{[0mcenter[1m}[0m                [2m                       [0m
+[2;36m                    [0m         \end[1m{[0mdocument[1m}[0m              [2m                       [0m
+[31m╭─[0m[31m────────────────────[0m[31m [0m[1;31mTraceback [0m[1;2;31m(most recent call last)[0m[31m [0m[31m─────────────────────[0m[31m─╮[0m
+[31m│[0m [2m/usr/local/lib/python3.11/site-packages/manim/cli/render/[0m[1mcommands.py[0m:125 in  [31m│[0m
+[31m│[0m render                                                                       [31m│[0m
+[31m│[0m                                                                              [31m│[0m
+[31m│[0m   [2m122 [0m[2m│   │   │   [0m[94mtry[0m:                                                       [31m│[0m
+[31m│[0m   [2m123 [0m[2m│   │   │   │   [0m[94mwith[0m tempconfig({}):                                   [31m│[0m
+[31m│[0m   [2m124 [0m[2m│   │   │   │   │   [0mscene = SceneClass()                               [31m│[0m
+[31m│[0m [31m❱ [0m125 [2m│   │   │   │   │   [0mscene.render()                                     [31m│[0m
+[31m│[0m   [2m126 [0m[2m│   │   │   [0m[94mexcept[0m [96mException[0m:                                          [31m│[0m
+[31m│[0m   [2m127 [0m[2m│   │   │   │   [0m[1;4merror_console.print_exception()[0m                        [31m│[0m
+[31m│[0m   [2m128 [0m[2m│   │   │   │   [0msys.exit([94m1[0m)                                            [31m│[0m
+[31m│[0m                                                                              [31m│[0m
+[31m│[0m [2m/usr/local/lib/python3.11/site-packages/manim/scene/[0m[1mscene.py[0m:237 in render   [31m│[0m
+[31m│[0m                                                                              [31m│[0m
+[31m│[0m   [2m 234 [0m[2;33m│   │   [0m[33m"""[0m                                                           [31m│[0m
+[31m│[0m   [2m 235 [0m[2m│   │   [0m[96mself[0m.setup()                                                  [31m│[0m
+[31m│[0m   [2m 236 [0m[2m│   │   [0m[94mtry[0m:                                                          [31m│[0m
+[31m│[0m [31m❱ [0m 237 [2m│   │   │   [0m[96mself[0m.construct()                                          [31m│[0m
+[31m│[0m   [2m 238 [0m[2m│   │   [0m[94mexcept[0m EndSceneEarlyException:                                [31m│[0m
+[31m│[0m   [2m 239 [0m[2m│   │   │   [0m[94mpass[0m                                                      [31m│[0m
+[31m│[0m   [2m 240 [0m[2m│   │   [0m[1;4;94mexcept[0m[1;4m RerunSceneException:[0m                                   [31m│[0m
+[31m│[0m                                                                              [31m│[0m
+[31m│[0m [2m/manim/[0m[1msolve_problem.py[0m:168 in construct                                     [31m│[0m
+[31m│[0m                                                                              [31m│[0m
+[31m│[0m   [2m165 [0m[2m│   │   │   │   [0mfont_size=[94m32[0m, color=WHITE),                            [31m│[0m
+[31m│[0m   [2m166 [0m[2m│   │   │   [0mTex([33mr[0m[33m"[0m[33m• $4-[0m[33m\[0m[33mpi[0m[33m\[0m[33mapprox0.86$ $[0m[33m\[0m[33mRightarrow$ value $[0m[33m\[0m[33mapprox0.0[0m [31m│[0m
+[31m│[0m   [2m167 [0m[2m│   │   │   │   [0mfont_size=[94m32[0m, color=WHITE),                            [31m│[0m
+[31m│[0m [31m❱ [0m168 [2m│   │   │   [0m[1;4mTex([0m[1;4;33mr[0m[1;4;33m"[0m[1;4;33m• Used integration by parts  ➜ curriculum objective [0m [31m│[0m
+[31m│[0m   [2m169 [0m[2m│   │   │   │   [0m[1;4mfont_size=[0m[1;4;94m32[0m[1;4m, color=WHITE)[0m,                            [31m│[0m
+[31m│[0m   [2m170 [0m[2m│   │   [0m).arrange(DOWN, aligned_edge=LEFT).next_to(final_ans, DOWN, bu [31m│[0m
+[31m│[0m   [2m171 [0m[2m│   │   [0m[96mself[0m.play(LaggedStart(*[FadeIn(t) [94mfor[0m t [95min[0m checks], lag_ratio= [31m│[0m
+[31m│[0m                                                                              [31m│[0m
+[31m│[0m [2m/usr/local/lib/python3.11/site-packages/manim/mobject/text/[0m[1mtex_mobject.py[0m:45 [31m│[0m
+[31m│[0m 2 in __init__                                                                [31m│[0m
+[31m│[0m                                                                              [31m│[0m
+[31m│[0m   [2m449 [0m[2m│   [0m[94mdef[0m[90m [0m[92m__init__[0m(                                                      [31m│[0m
+[31m│[0m   [2m450 [0m[2m│   │   [0m[96mself[0m, *tex_strings, arg_separator=[33m"[0m[33m"[0m, tex_environment=[33m"[0m[33mcenter[0m[33m"[0m [31m│[0m
+[31m│[0m   [2m451 [0m[2m│   [0m):                                                                 [31m│[0m
+[31m│[0m [31m❱ [0m452 [2m│   │   [0m[1;4;96msuper[0m[1;4m().[0m[1;4;92m__init__[0m[1;4m([0m                                              [31m│[0m
+[31m│[0m   [2m453 [0m[2m│   │   │   [0m[1;4m*tex_strings,[0m                                              [31m│[0m
+[31m│[0m   [2m454 [0m[2m│   │   │   [0m[1;4marg_separator=arg_separator,[0m                               [31m│[0m
+[31m│[0m   [2m455 [0m[2m│   │   │   [0m[1;4mtex_environment=tex_environment,[0m                           [31m│[0m
+[31m│[0m                                                                              [31m│[0m
+[31m│[0m [2m/usr/local/lib/python3.11/site-packages/manim/mobject/text/[0m[1mtex_mobject.py[0m:29 [31m│[0m
+[31m│[0m 8 in __init__                                                                [31m│[0m
+[31m│[0m                                                                              [31m│[0m
+[31m│[0m   [2m295 [0m[2;33m│   │   │   │   │   │   [0m[33m"""[0m,                                           [31m│[0m
+[31m│[0m   [2m296 [0m[2m│   │   │   │   │   [0m),                                                 [31m│[0m
+[31m│[0m   [2m297 [0m[2m│   │   │   │   [0m)                                                      [31m│[0m
+[31m│[0m [31m❱ [0m298 [2m│   │   │   [0m[1;4;94mraise[0m[1;4m compilation_error[0m                                    [31m│[0m
+[31m│[0m   [2m299 [0m[2m│   │   [0m[96mself[0m.set_color_by_tex_to_color_map([96mself[0m.tex_to_color_map)      [31m│[0m
+[31m│[0m   [2m300 [0m[2m│   │   [0m                                                               [31m│[0m
+[31m│[0m   [2m301 [0m[2m│   │   [0m[94mif[0m [96mself[0m.organize_left_to_right:                                [31m│[0m
+[31m│[0m                                                                              [31m│[0m
+[31m│[0m [2m/usr/local/lib/python3.11/site-packages/manim/mobject/text/[0m[1mtex_mobject.py[0m:27 [31m│[0m
+[31m│[0m 7 in __init__                                                                [31m│[0m
+[31m│[0m                                                                              [31m│[0m
+[31m│[0m   [2m274 [0m[2m│   │   [0m[96mself[0m.brace_notation_split_occurred = [94mFalse[0m                     [31m│[0m
+[31m│[0m   [2m275 [0m[2m│   │   [0m[96mself[0m.tex_strings = [96mself[0m._break_up_tex_strings(tex_strings)     [31m│[0m
+[31m│[0m   [2m276 [0m[2m│   │   [0m[94mtry[0m:                                                           [31m│[0m
+[31m│[0m [31m❱ [0m277 [2m│   │   │   [0m[96msuper[0m().[92m__init__[0m(                                          [31m│[0m
+[31m│[0m   [2m278 [0m[2m│   │   │   │   [0m[96mself[0m.arg_separator.join([96mself[0m.tex_strings),             [31m│[0m
+[31m│[0m   [2m279 [0m[2m│   │   │   │   [0mtex_environment=[96mself[0m.tex_environment,                  [31m│[0m
+[31m│[0m   [2m280 [0m[2m│   │   │   │   [0mtex_template=[96mself[0m.tex_template,                        [31m│[0m
+[31m│[0m                                                                              [31m│[0m
+[31m│[0m [2m/usr/local/lib/python3.11/site-packages/manim/mobject/text/[0m[1mtex_mobject.py[0m:80 [31m│[0m
+[31m│[0m in __init__                                                                  [31m│[0m
+[31m│[0m                                                                              [31m│[0m
+[31m│[0m   [2m 77 [0m[2m│   │   [0m                                                               [31m│[0m
+[31m│[0m   [2m 78 [0m[2m│   │   [0m[94massert[0m [96misinstance[0m(tex_string, [96mstr[0m)                             [31m│[0m
+[31m│[0m   [2m 79 [0m[2m│   │   [0m[96mself[0m.tex_string = tex_string                                   [31m│[0m
+[31m│[0m [31m❱ [0m 80 [2m│   │   [0mfile_name = [1;4mtex_to_svg_file([0m                                   [31m│[0m
+[31m│[0m   [2m 81 [0m[2m│   │   │   [0m[1;4;96mself[0m[1;4m._get_modified_expression(tex_string),[0m                 [31m│[0m
+[31m│[0m   [2m 82 [0m[2m│   │   │   [0m[1;4menvironment=[0m[1;4;96mself[0m[1;4m.tex_environment,[0m                          [31m│[0m
+[31m│[0m   [2m 83 [0m[2m│   │   │   [0m[1;4mtex_template=[0m[1;4;96mself[0m[1;4m.tex_template,[0m                            [31m│[0m
+[31m│[0m                                                                              [31m│[0m
+[31m│[0m [2m/usr/local/lib/python3.11/site-packages/manim/utils/[0m[1mtex_file_writing.py[0m:65   [31m│[0m
+[31m│[0m in tex_to_svg_file                                                           [31m│[0m
+[31m│[0m                                                                              [31m│[0m
+[31m│[0m   [2m 62 [0m[2m│   [0m[94mif[0m svg_file.exists():                                              [31m│[0m
+[31m│[0m   [2m 63 [0m[2m│   │   [0m[94mreturn[0m svg_file                                                [31m│[0m
+[31m│[0m   [2m 64 [0m[2m│   [0m                                                                   [31m│[0m
+[31m│[0m [31m❱ [0m 65 [2m│   [0mdvi_file = [1;4mcompile_tex([0m                                            [31m│[0m
+[31m│[0m   [2m 66 [0m[2m│   │   [0m[1;4mtex_file,[0m                                                      [31m│[0m
+[31m│[0m   [2m 67 [0m[2m│   │   [0m[1;4mtex_template.tex_compiler,[0m                                     [31m│[0m
+[31m│[0m   [2m 68 [0m[2m│   │   [0m[1;4mtex_template.output_format,[0m                                    [31m│[0m
+[31m│[0m                                                                              [31m│[0m
+[31m│[0m [2m/usr/local/lib/python3.11/site-packages/manim/utils/[0m[1mtex_file_writing.py[0m:212  [31m│[0m
+[31m│[0m in compile_tex                                                               [31m│[0m
+[31m│[0m                                                                              [31m│[0m
+[31m│[0m   [2m209 [0m[2m│   │   [0m[94mif[0m cp.returncode != [94m0[0m:                                         [31m│[0m
+[31m│[0m   [2m210 [0m[2m│   │   │   [0mlog_file = tex_file.with_suffix([33m"[0m[33m.log[0m[33m"[0m)                    [31m│[0m
+[31m│[0m   [2m211 [0m[2m│   │   │   [0mprint_all_tex_errors(log_file, tex_compiler, tex_file)     [31m│[0m
+[31m│[0m [31m❱ [0m212 [2m│   │   │   [0m[1;4;94mraise[0m[1;4m [0m[1;4;96mValueError[0m[1;4m([0m                                          [31m│[0m
+[31m│[0m   [2m213 [0m[2m│   │   │   │   [0m[1;4;33mf[0m[1;4;33m"[0m[1;4;33m{[0m[1;4mtex_compiler[0m[1;4;33m}[0m[1;4;33m error converting to[0m[1;4;33m"[0m                  [31m│[0m
+[31m│[0m   [2m214 [0m[2m│   │   │   │   [0m[1;4;33mf[0m[1;4;33m"[0m[1;4;33m [0m[1;4;33m{[0m[1;4moutput_format[[0m[1;4;94m1[0m[1;4m:][0m[1;4;33m}[0m[1;4;33m. See log output above or[0m[1;4;33m"[0m       [31m│[0m
+[31m│[0m   [2m215 [0m[2m│   │   │   │   [0m[1;4;33mf[0m[1;4;33m"[0m[1;4;33m the log file: [0m[1;4;33m{[0m[1;4mlog_file[0m[1;4;33m}[0m[1;4;33m"[0m[1;4m,[0m                          [31m│[0m
+[31m╰──────────────────────────────────────────────────────────────────────────────╯[0m
+[1;91mValueError: [0mlatex error converting to dvi. See log output above or the log file:
+media/Tex/8ea35092f59ab7e3.log

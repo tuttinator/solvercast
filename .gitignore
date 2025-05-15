@@ -17,3 +17,5 @@ audio/
 output/
 final/
 notebooks/cursed_audio/
+# SpecStory explanation file
+.specstory/.what-is-this.md
